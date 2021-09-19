@@ -6,3 +6,7 @@ build 2
 145
 new commit
 need to be deleted 
+<<<<<<< HEAD
+=======
+on
+>>>>>>> very-bad
